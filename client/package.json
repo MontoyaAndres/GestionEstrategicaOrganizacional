@@ -35,9 +35,9 @@
 		"next": "7.0.2",
 		"next-offline": "3.3.5",
 		"nprogress": "0.2.0",
-		"react": "16.7.0",
+		"react": "16.8.0",
 		"react-apollo": "2.4.1",
-		"react-dom": "16.7.0",
+		"react-dom": "16.8.0",
 		"react-dropzone": "^8.0.4",
 		"yup": "0.26.10"
 	}
